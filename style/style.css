@@ -1,0 +1,26 @@
+p {
+  font-family: "Arvo", serif;
+}
+.title p {
+  text-align: center;
+  color: #3b3f6a;
+  font-size: 30px;
+}
+.name-title {
+  max-width: 215px;
+  color: #3b3f6a;
+  font-size: 22px;
+  font-weight: bold;
+}
+.text-title {
+  max-width: 250px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  color: #686c8a;
+}
+.item-block {
+  text-align: center;
+}
+.item-block img {
+  height: 140px;
+}
